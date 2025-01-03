@@ -1,0 +1,40 @@
+{
+  "Meeting Type": {
+    "type": "select",
+    "select": {
+      "options": [
+        {
+          "name": "Interview",
+          "color": "green"
+        },
+        {
+          "name": "All Hands",
+          "color": "purple"
+        }
+      ]
+    }
+  },
+  "Date of Meeting": {
+    "type": "date",
+    "date": {}
+  },
+  "Platform": {
+    "type": "select",
+    "select": {
+      "options": [
+        {
+          "name": "Google Meet",
+          "color": "green"
+        },
+        {
+          "name": "Zoom",
+          "color": "pink"
+        }
+      ]
+    }
+  },
+  "Name": {
+    "type": "title",
+    "title": {}
+  }
+}

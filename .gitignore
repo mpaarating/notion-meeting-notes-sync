@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.py[cod]
+notion_env/
+.vscode/
+.cursor/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+build/
+dist/
+*.egg-info/
+htmlcov/
+.coverage
+notion_schema.json
